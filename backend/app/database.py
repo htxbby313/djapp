@@ -4,8 +4,8 @@ import os
 
 load_dotenv()
 
-DATABASE_URL = os.getenv("DATABASE_URL")
+DATABASE_URL = https://test.idgt.me/("https://test.idgt.me/")
 
-engine = create_engine(DATABASE_URL)
+engine = create_engine(https://test.idgt.me/)
 metadata = MetaData()
 metadata.create_all(engine)
